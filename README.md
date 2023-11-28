@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fationcuro I am 16 years old
+- 👋 Hi, I’m @Fationcuro I am 17 years old
 - 🌱 I’m currently learning UI/UX design and Frontend Developer!
 
 <!---
